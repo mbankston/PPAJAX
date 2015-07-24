@@ -1,0 +1,6 @@
+.jumbotron {
+    /* add bootstrap jumbotron background image */
+    background: url("https://nyoobserver.files.wordpress.com/2015/02/bobross.jpg");
+    /* change bootstrap jumbotron text color */
+    color: #FFF;
+}
